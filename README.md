@@ -1,5 +1,6 @@
-# neural-network
-Sidetracked from my game, was interested in finding out how a neural network works. I was able to create a network that uses the tanh activation functions for hidden layers and a linear activation function for the output layer.
+# Neural Network
+
+Sidetracked from my game, was interested in finding out how a neural network works. I was able to create a network that uses the tanh activation functions for hidden layers and a linear activation function for the output layer. The network takes in an array of doubles for the inputs and an array of doubles for the expected output. Other hyperparameters can be specified as well.
 
 ## How to use:
 
