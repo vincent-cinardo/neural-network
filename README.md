@@ -4,7 +4,7 @@ Sidetracked from my game, was interested in finding out how a neural network wor
 
 ## How to use:
 
-```
+```C#
 int numInputs = 4;
 int numOutputs = 1;
 int hiddenLayers = 5;
