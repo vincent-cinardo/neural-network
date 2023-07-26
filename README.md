@@ -2,7 +2,7 @@
 Sidetracked from my game, was interested in finding out how a neural network works. I was able to create a network that uses the tanh activation functions for hidden layers and a linear activation function for the output layer.
 
 How to use:
-
+```
 int numInputs = 4;
 int numOutputs = 1;
 int hiddenLayers = 5;
@@ -22,3 +22,4 @@ while (true)
     Thread.Sleep(10);
     Console.Clear();
 }
+```
