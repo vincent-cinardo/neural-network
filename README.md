@@ -1,7 +1,7 @@
 # neural-network
 Sidetracked from my game, was interested in finding out how a neural network works. I was able to create a network that uses the tanh activation functions for hidden layers and a linear activation function for the output layer.
 
-How to use:
+##How to use:
 
 ```
 int numInputs = 4;
